@@ -10,3 +10,10 @@ https://gitfront.io/r/rljones101/YPPH7TKtjrPH/opinionrateit-site/
 
 Website link (currently in development):
 https://dev.opinionrateit.com/
+
+## u-rate-it-vue-2
+
+Gitfront link:
+https://gitfront.io/r/rljones101/1NjWDsCyf8A1/u-rate-it-vue-2/
+
+
